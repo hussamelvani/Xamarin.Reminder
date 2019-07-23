@@ -10,8 +10,8 @@ namespace Xamarin.Reminder.Droid
 {
     [Activity
         (
-        Label = "Xamarin.Reminder",
-        Icon = "@mipmap/icon",
+        Label = "Bana Hatırlat",
+        Icon = "@mipmap/ReminderIcon",
         Theme = "@style/MainTheme",
         MainLauncher = true,
         ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation
